@@ -36,7 +36,10 @@ def result():
     return redirect('/')
 
 
-
+# Displaying Dashboard
+@app.route('/modelEvaluation')
+def model_evaluation():
+    return render_template('MEval.html')
 
 
 if __name__ == "__main__":
