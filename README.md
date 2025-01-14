@@ -2,7 +2,7 @@
 
 **Mumbai Home Valuefy** is a machine learning-based web application that predicts the price of apartments in Mumbai. It takes into account various features such as area, number of bedrooms, bathrooms, apartment type, and location. The app provides a simple user interface to predict apartment prices, and also integrates a live Power BI dashboard for real-time analytics and insights.
 
-![Mumbai Skyline](static\house.jpg)
+![Mumbai Skyline](static/house.jpg)
 
 ## Features
 - **Apartment Price Prediction**: Predicts the price of an apartment based on user inputs like area, number of bedrooms, bathrooms, apartment type, and location.
