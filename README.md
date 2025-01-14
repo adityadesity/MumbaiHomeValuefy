@@ -31,8 +31,17 @@ To run **Mumbai Home Valuefy** on your local machine, follow the instructions be
    git clone https://github.com/adityadesity/MumbaiHomeValuefy.git
    cd mumbai-home-valuefy
 
-2. **Create a virtual enviornment**:
+2. **Create a Virtual Enviornment**:
    If you are using anaconda, run the following command.
    ```bash
    conda create -n venv 
-   
+
+3. **Install the Required Packages**:
+   ```bash
+   pip insatll -r requirements.txt
+
+4. **Run the Application**:
+   ```bash
+   python app.py
+
+The would be running on localhost:3000
