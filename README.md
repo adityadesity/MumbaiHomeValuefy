@@ -42,6 +42,6 @@ To run **Mumbai Home Valuefy** on your local machine, follow the instructions be
 
 4. **Run the Application**:
    ```bash
-   python app.py
+   python server.py
 
-The would be running on localhost:3000
+   The would be running on localhost:5000
