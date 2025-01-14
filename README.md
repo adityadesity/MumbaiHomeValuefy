@@ -2,7 +2,7 @@
 
 **Mumbai Home Valuefy** is a machine learning-based web application that predicts the price of apartments in Mumbai. It takes into account various features such as area, number of bedrooms, bathrooms, apartment type, and location. The app provides a simple user interface to predict apartment prices, and also integrates a live Power BI dashboard for real-time analytics and insights.
 
-![Mumbai Skyline](static/house.jpg)
+![Mumbai Skyline](static/UI1.png)
 # Overview 
 
 **Mumbai Home Valuefy** is a machine learning-based web application designed to predict the price of apartments in Mumbai. The project leverages a **Random Forest Regressor**, a robust ensemble machine learning algorithm, to accurately estimate apartment prices based on features such as:
@@ -16,6 +16,8 @@ The application provides users with a seamless interface for inputting their par
 
 ### Why Random Forest Regressor?
 The **Random Forest Regressor** was chosen for its ability to handle large datasets with high dimensionality and its robustness against overfitting. It aggregates predictions from multiple decision trees, ensuring accuracy and generalization in price predictions.
+
+![Mumbai Skyline](static/ModelComparison.png)
 
 ### Features 
 - **Apartment Price Prediction**: Predicts the price of an apartment based on user inputs like area, number of bedrooms, bathrooms, apartment type, and location.
