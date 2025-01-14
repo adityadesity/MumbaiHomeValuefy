@@ -58,4 +58,6 @@ The app will be running on [localhost:5000](http://localhost:5000)
 
 ## Dataset
 [Mumbai House Prices](https://www.kaggle.com/datasets/dravidvaishnav/mumbai-house-prices)
-```
+
+## Dashboard
+[Dashboard](DashBoard/Dashboard%20Image.png)
