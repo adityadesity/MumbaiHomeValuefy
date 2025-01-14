@@ -28,6 +28,7 @@ with open("Artifacts/room_type.json", "r") as json_file:
 
 def predict_price(area,no_bedrooms,location,property_type,room_type):
     input = [area]+[no_bedrooms]+[location_weights[location]] +property_type_map[property_type] + [type_map[room_type]]
+    print(location)
     print(input)
     output = loaded_model.predict([input])[0]
     print(f'Predicted Price: INR {output} Lakhs')
