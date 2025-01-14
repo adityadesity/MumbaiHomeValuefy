@@ -57,7 +57,7 @@ To run **Mumbai Home Valuefy** on your local machine, follow the instructions be
 The app will be running on [localhost:5000](http://localhost:5000)
 
 ## Dataset
-[Mumbai House Prices](https://www.kaggle.com/datasets/dravidvaishnav/mumbai-house-prices)
+Link to dataset: [Mumbai House Prices](https://www.kaggle.com/datasets/dravidvaishnav/mumbai-house-prices)
 
 ## Dashboard
-[Dashboard](DashBoard/Dashboard%20Image.png)
+[Dashboard](DashBoard/DashboardImage.png)
