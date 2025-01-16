@@ -37,7 +37,7 @@ The **Random Forest Regressor** was chosen for its ability to handle large datas
 To run **Mumbai Home Valuefy** on your local machine, follow the instructions below:
 
 ### Prerequisites
-- Python 3.7+ installed on your machine.
+- Python 3.8+ installed on your machine.
 - pip (Python package installer).
 
 ### Steps to Set Up Locally:
